@@ -1,4 +1,4 @@
-﻿# @manojampalam - authored initial script
+# @manojampalam - authored initial script
 # @friism - Fixed issue with invalid SDDL on Set-Acl
 # @manojampalam - removed ntrights.exe dependency
 # @bingbing8 - removed secedit.exe dependency
